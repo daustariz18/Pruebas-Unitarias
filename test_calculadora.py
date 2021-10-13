@@ -11,7 +11,7 @@ def test_suma():
 
     # Assert
     assert numero_obtenido == numero_de_prueba
- 
+
 
 def test_resta():
 
@@ -32,7 +32,7 @@ def test_multiplicacion():
 
     # Act
     numero_obtenido = calculadora.multiplicacion(2, 2)
- 
+
     # Assert
     assert numero_de_prueba == numero_obtenido
 
