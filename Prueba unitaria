@@ -1,0 +1,21 @@
+[33mcommit 16333ee18447f361d9f422cdb6f9afcb812d6065[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/edition[m[33m)[m
+Author: daustariz18 <40530229+daustariz18@users.noreply.github.com>
+Date:   Wed Oct 13 00:35:53 2021 -0500
+
+    Prueba Unitaria de Potencia
+    
+    Función de prueba unitaria para la potenciación
+
+[33mcommit 005986b96f805094a62c5e92c559b95348b89901[m
+Author: daustariz18 <40530229+daustariz18@users.noreply.github.com>
+Date:   Wed Oct 13 00:30:00 2021 -0500
+
+    Potenciacion
+    
+    Agregar la función potenciación a la calculadora.py
+
+[33mcommit 25021ed68d5030194e5e6eac4b34e9b7a9a12fe7[m
+Author: Diego Ustariz <diusme@gmail.com>
+Date:   Wed Oct 13 00:14:18 2021 -0500
+
+    prueba Unitarias V1

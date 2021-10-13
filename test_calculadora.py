@@ -48,15 +48,14 @@ def test_division():
     # Assert
     assert numero_de_prueba == numero_obtenido
 
-    
+
 def test_potencia():
-    
+
     # Arrange
-    numero de prueba = 8
-        
-    #act
-    numero_obtenido = calculadora.potenciacion(2, 3)
-        
+    numero_de_prueba = 8
+
+    # act
+    numero_obtenido = calculadora.potencia(2, 3)
+
     # Assert
     assert numero_de_prueba == numero_obtenido
-   
